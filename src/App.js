@@ -10,7 +10,7 @@ import List from './components/List/List';
 import Article from './components/Article/Article';
 import SignUp from './components/SignUp/SignUp';
 import SignIn from './components/SignIn/SignIn';
-import DefendedWrapper from './components/MyHoc/DefenedWrap';
+import DefendedWrapper from './components/Login/DefenedWrap';
 import Header from './components/Header/Header';
 import { selectIsCurentUserLoading, getCurrentUser } from './redux/store/userSlice';
 import EditForm from './components/EditForm/EditForm';
